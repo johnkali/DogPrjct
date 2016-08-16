@@ -1,4 +1,4 @@
-/**
+
 class Dog {
     
         int size;
@@ -35,7 +35,7 @@ class Dog {
         
     }
 }
- */      
+       
       
     
     
